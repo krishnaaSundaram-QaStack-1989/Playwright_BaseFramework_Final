@@ -1,0 +1,20 @@
+{
+  "name": "playwright_baseframework_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "smoke-Tests": "npx playwright test --project=smokeTests",
+    "regression-Tests": "npx playwright test --project=regressionTests",
+    "record-Tests": "npx playwright codegen https://xxxxx.com/login",
+    "generate-Report": "allure generate allure-results -o allure-report --clean",
+    "open-Report": "allure open allure-report",
+    "show-Report": "npm run generate-Report && npm run open-Report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2"
+  }
+}
