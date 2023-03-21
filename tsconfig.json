@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "strict": true,                                
+    "noImplicitAny": false,                       
+    "strictNullChecks": true,                    
+    "strictFunctionTypes": true,   
+    "noUnusedLocals": true,                      
+    "noUnusedParameters": true,                  
+    "preserveConstEnums": true,
+    "esModuleInterop": true,                     
+    "skipLibCheck": true,                        
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",                              
+    "paths": {                                           
+    "@pages/*":["src/tests/pages/*"],
+    "@testDatas/*":["src/tests/testDatas/*"],
+    "@lib/*":["src/tests/lib/*"],
+    "@elementList/*":["src/tests/pages/pageElementsList/*"],
+    }
+                                             
+  },
+    "exclude": ["node_modules", "**/node_modules/*"] ,
+  
+}
