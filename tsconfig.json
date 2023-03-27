@@ -15,7 +15,7 @@
     "@pages/*":["src/tests/pages/*"],
     "@testDatas/*":["src/tests/testDatas/*"],
     "@lib/*":["src/tests/lib/*"],
-    "@elementList/*":["src/tests/pages/pageElementsList/*"],
+    "@elementList/*":["src/tests/pages/pageElementsList/*"], 
     }
                                              
   },
