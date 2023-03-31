@@ -1,7 +1,5 @@
 # Playwright_BaseFramework_Final
 BaseFramework with syntax and code 
-
-# Test Application Web-Automation
 Setup with config, tags, retries and helper functions and sample tests to get started with automation
 
 ## Features
