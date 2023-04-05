@@ -9,7 +9,7 @@ but seen in explorer view
 - readme file
 - allure configured with few parameters
 - 2 config files for CI run and local run to debug with trace viewer is implemented
-- categories and env.prop as given from allure documents 
+- categories and env.prop as given from allure documents YOUR EFFORT - Copy and paste them in ALLURE RESULTS FOLDER
 - tsconfig basic setup done 
 
 Pending
