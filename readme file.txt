@@ -24,3 +24,10 @@ performance testing with playwright - https://www.youtube.com/watch?v=IrK-XDH72b
 https://www.youtube.com/watch?v=TO7i6xlMBHU - speed up test in web automation
 Google Analytics implementations
 Sonar qube implementations
+
+Visual Studio Code 
+
+Extensions
+- code tags by Sreenivas alapati 
+Eg: ctrl + p Then Shift + > 
+now enter 
