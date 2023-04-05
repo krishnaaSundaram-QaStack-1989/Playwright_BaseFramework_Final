@@ -28,6 +28,19 @@ Sonar qube implementations
 Visual Studio Code 
 
 Extensions
-- code tags by Sreenivas alapati 
+- CODE TAGS by Sreenivas alapati 
 Eg: ctrl + p Then Shift + > 
-now enter 
+now enter "code tags" . See demo snip in the extension section
+
+- GITHUB Pull Requests and issues by Github
+In LHS you will find the github stuff to work on
+
+- GITHUB REPOSITORIES by github
+ 
+- GITLENS SUPERCHARGEDby Gitkraken
+
+- PLAYWRIGHT TEST FOR VSCODE by Microsoft
+
+- REMOTE  REPOSITORIES by Microsoft
+ 
+
