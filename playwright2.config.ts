@@ -2,6 +2,8 @@
 *  example : 
 Example - use forward slash 
 npx playwright test ./regressionTests/tests/1_test.spec.ts --config=playwright2.config.ts --headed --project=chromium --debug --trace on
+or copy relative path and use double slash "\\"
+Eg: src\tests\lib as src\\tests\\lib
 */
 import type { PlaywrightTestConfig } from "@playwright/test";
 import devices from "@playwright/test";
