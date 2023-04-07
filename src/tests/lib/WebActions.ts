@@ -210,4 +210,15 @@ export class WebActions {
     }
   }
 
+  async keyboardAction(locator: any, key: "ArrowDown", delayTime: Number) {
+
+    await locator.press(key, { delay: delayTime });
+    // eg: await this.selectAddress.press('ArrowDown', { delay: 4000 });
+    // selectaddress is locator 
+  }
+
+  async emptyTextField(locator: any, timeouts: null | Number) {
+    await this.confirmAndEnterInputs(locator, '', timeouts);
+  }
+
 }

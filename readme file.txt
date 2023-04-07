@@ -9,7 +9,7 @@ but seen in explorer view
 - readme file
 - allure configured with few parameters
 - 2 config files for CI run and local run to debug with trace viewer is implemented
-- categories and env.prop as given from allure documents 
+- categories and env.prop as given from allure documents YOUR EFFORT - Copy and paste them in ALLURE RESULTS FOLDER
 - tsconfig basic setup done 
 
 Pending
@@ -24,3 +24,23 @@ performance testing with playwright - https://www.youtube.com/watch?v=IrK-XDH72b
 https://www.youtube.com/watch?v=TO7i6xlMBHU - speed up test in web automation
 Google Analytics implementations
 Sonar qube implementations
+
+Visual Studio Code 
+
+Extensions
+- CODE TAGS by Sreenivas alapati 
+Eg: ctrl + p Then Shift + > 
+now enter "code tags" . See demo snip in the extension section
+
+- GITHUB Pull Requests and issues by Github
+In LHS you will find the github stuff to work on
+
+- GITHUB REPOSITORIES by github
+ 
+- GITLENS SUPERCHARGEDby Gitkraken
+
+- PLAYWRIGHT TEST FOR VSCODE by Microsoft
+
+- REMOTE  REPOSITORIES by Microsoft
+ 
+
